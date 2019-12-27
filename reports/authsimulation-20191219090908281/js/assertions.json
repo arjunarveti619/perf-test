@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.AuthSimulation",
+  "simulationId": "authsimulation",
+  "start": 1576746548281,
+  "description": "",
+  "scenarios": ["Access Token from APIKey"],
+  "assertions": [
+
+  ]
+}
